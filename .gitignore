@@ -1,0 +1,36 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+# Python build artifacts
+*.egg-info/
+build/
+
+# We commit frontend/dist for Railway static serving
+!frontend/dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+*.log
+
+# Raw data (processed parquet files are committed for deployment)
+ipl_json/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Local env
+.env
+.env.local

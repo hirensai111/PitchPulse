@@ -1,0 +1,135 @@
+{
+  "matches": [
+    {
+      "match_id": "srh_vs_dc_2026-04-21",
+      "date": "2026-04-21",
+      "team1": "Sunrisers Hyderabad",
+      "team2": "Delhi Capitals",
+      "venue": "Rajiv Gandhi International Stadium, Uppal",
+      "result": "Sunrisers Hyderabad won by 47 runs",
+      "top_5_likely": [
+        {"event_id": "match_fours_gte_20", "display_name": "Match fours >= 20", "probability": 0.835, "actual": true},
+        {"event_id": "team_loses_pp_wicket", "display_name": "Team loses PP wicket", "team": "Sunrisers Hyderabad", "probability": 0.801, "actual": false},
+        {"event_id": "team_has_top_wicket_taker", "display_name": "Team has top wicket-taker", "team": "Sunrisers Hyderabad", "probability": 0.638, "actual": true},
+        {"event_id": "team_has_top_wicket_taker", "display_name": "Team has top wicket-taker", "team": "Delhi Capitals", "probability": 0.638, "actual": false},
+        {"event_id": "any_fifty", "display_name": "Team produces a fifty", "team": "Delhi Capitals", "probability": 0.625, "actual": true}
+      ],
+      "top_5_notable": [
+        {"event_id": "any_four_wicket_haul", "display_name": "Team produces a four-wicket haul", "team": "Sunrisers Hyderabad", "probability": 0.181, "actual": true},
+        {"event_id": "team_bats_first", "display_name": "Team bats first", "team": "Sunrisers Hyderabad", "probability": 0.610, "actual": true},
+        {"event_id": "match_fours_gte_20", "display_name": "Match fours >= 20", "probability": 0.835, "actual": true},
+        {"event_id": "team_loses_pp_wicket", "display_name": "Team loses PP wicket", "team": "Sunrisers Hyderabad", "probability": 0.801, "actual": false},
+        {"event_id": "any_run_out", "display_name": "Any run out", "probability": 0.686, "actual": true}
+      ],
+      "likely_hits": 3,
+      "notable_hits": 4
+    },
+    {
+      "match_id": "mi_vs_gt_2026-04-20",
+      "date": "2026-04-20",
+      "team1": "Mumbai Indians",
+      "team2": "Gujarat Titans",
+      "venue": "Wankhede Stadium",
+      "result": "Mumbai Indians won by 99 runs",
+      "notes": "Venue was auto-inferred as Wankhede but actual venue was Narendra Modi Stadium, Ahmedabad. This contributed to notable-list misses.",
+      "top_5_likely": [
+        {"event_id": "match_fours_gte_20", "display_name": "Match fours >= 20", "probability": 0.862, "actual": true},
+        {"event_id": "team_loses_pp_wicket", "display_name": "Team loses PP wicket", "team": "Mumbai Indians", "probability": 0.796, "actual": true},
+        {"event_id": "match_runs_gte_300", "display_name": "Match runs >= 300", "probability": 0.650, "actual": false},
+        {"event_id": "any_fifty", "display_name": "Team produces a fifty", "team": "Gujarat Titans", "probability": 0.643, "actual": false},
+        {"event_id": "team_has_top_wicket_taker", "display_name": "Team has top wicket-taker", "team": "Mumbai Indians", "probability": 0.638, "actual": true}
+      ],
+      "top_5_notable": [
+        {"event_id": "match_sixes_gte_15", "display_name": "Match sixes >= 15", "probability": 0.450, "actual": false},
+        {"event_id": "team_score_gte_200", "display_name": "Team score >= 200", "team": "Mumbai Indians", "probability": 0.154, "actual": false},
+        {"event_id": "team_loses_pp_wicket", "display_name": "Team loses PP wicket", "team": "Mumbai Indians", "probability": 0.796, "actual": true},
+        {"event_id": "match_runs_gte_300", "display_name": "Match runs >= 300", "probability": 0.650, "actual": false},
+        {"event_id": "any_fifty", "display_name": "Team produces a fifty", "team": "Gujarat Titans", "probability": 0.643, "actual": false}
+      ],
+      "likely_hits": 3,
+      "notable_hits": 1
+    },
+    {
+      "match_id": "lsg_vs_rr_2026-04-22",
+      "date": "2026-04-22",
+      "team1": "Lucknow Super Giants",
+      "team2": "Rajasthan Royals",
+      "venue": "Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow",
+      "result": "Rajasthan Royals won by 40 runs",
+      "top_5_likely": [
+        {"event_id": "match_fours_gte_20", "display_name": "Match fours >= 20", "probability": 0.862, "actual": true},
+        {"event_id": "team_loses_pp_wicket", "display_name": "Team loses PP wicket", "team": "Lucknow Super Giants", "probability": 0.789, "actual": true},
+        {"event_id": "team_has_top_wicket_taker", "display_name": "Team has top wicket-taker", "team": "Rajasthan Royals", "probability": 0.649, "actual": true},
+        {"event_id": "team_has_top_wicket_taker", "display_name": "Team has top wicket-taker", "team": "Lucknow Super Giants", "probability": 0.628, "actual": false},
+        {"event_id": "any_run_out", "display_name": "Any run out", "probability": 0.655, "actual": true}
+      ],
+      "top_5_notable": [
+        {"event_id": "team_score_gte_200", "display_name": "Team score >= 200", "team": "Lucknow Super Giants", "probability": 0.174, "actual": false},
+        {"event_id": "match_sixes_gte_20", "display_name": "Match sixes >= 20", "probability": 0.133, "actual": false},
+        {"event_id": "any_century", "display_name": "Team produces a century", "team": "Lucknow Super Giants", "probability": 0.076, "actual": false},
+        {"event_id": "team_loses_pp_wicket", "display_name": "Team loses PP wicket", "team": "Lucknow Super Giants", "probability": 0.789, "actual": true},
+        {"event_id": "any_run_out", "display_name": "Any run out", "probability": 0.655, "actual": true}
+      ],
+      "likely_hits": 4,
+      "notable_hits": 2
+    },
+    {
+      "match_id": "pbks_vs_lsg_2026-04-19",
+      "date": "2026-04-19",
+      "team1": "Punjab Kings",
+      "team2": "Lucknow Super Giants",
+      "venue": "Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh",
+      "result": "Punjab Kings won by 54 runs",
+      "top_5_likely": [
+        {"event_id": "match_fours_gte_20", "display_name": "Match fours >= 20", "probability": 0.878, "actual": true},
+        {"event_id": "team_loses_pp_wicket", "display_name": "Team loses PP wicket", "team": "Lucknow Super Giants", "probability": 0.789, "actual": true},
+        {"event_id": "team_has_top_wicket_taker", "display_name": "Team has top wicket-taker", "team": "Punjab Kings", "probability": 0.646, "actual": true},
+        {"event_id": "any_fifty", "display_name": "Team produces a fifty", "team": "Punjab Kings", "probability": 0.621, "actual": true},
+        {"event_id": "any_run_out", "display_name": "Any run out", "probability": 0.601, "actual": true}
+      ],
+      "top_5_notable": [
+        {"event_id": "match_sixes_gte_15", "display_name": "Match sixes >= 15", "probability": 0.349, "actual": true},
+        {"event_id": "team_loses_pp_wicket", "display_name": "Team loses PP wicket", "team": "Lucknow Super Giants", "probability": 0.789, "actual": true},
+        {"event_id": "team_has_top_wicket_taker", "display_name": "Team has top wicket-taker", "team": "Punjab Kings", "probability": 0.646, "actual": true},
+        {"event_id": "any_fifty", "display_name": "Team produces a fifty", "team": "Punjab Kings", "probability": 0.621, "actual": true},
+        {"event_id": "match_runs_gte_300", "display_name": "Match runs >= 300", "probability": 0.594, "actual": true}
+      ],
+      "likely_hits": 5,
+      "notable_hits": 5
+    },
+    {
+      "match_id": "rcb_vs_dc_2026-04-18",
+      "date": "2026-04-18",
+      "team1": "Royal Challengers Bengaluru",
+      "team2": "Delhi Capitals",
+      "venue": "M Chinnaswamy Stadium, Bengaluru",
+      "result": "Delhi Capitals won by 6 wickets (1 ball remaining)",
+      "top_5_likely": [
+        {"event_id": "match_fours_gte_20", "display_name": "Match fours >= 20", "probability": 0.835, "actual": true},
+        {"event_id": "team_loses_pp_wicket", "display_name": "Team loses PP wicket", "team": "Delhi Capitals", "probability": 0.796, "actual": true},
+        {"event_id": "team_has_top_wicket_taker", "display_name": "Team has top wicket-taker", "team": "Royal Challengers Bengaluru", "probability": 0.638, "actual": true},
+        {"event_id": "any_run_out", "display_name": "Any run out", "probability": 0.635, "actual": false},
+        {"event_id": "any_fifty", "display_name": "Team produces a fifty", "team": "Royal Challengers Bengaluru", "probability": 0.621, "actual": true}
+      ],
+      "top_5_notable": [
+        {"event_id": "team_pp_score_gte_50", "display_name": "Team PP score >= 50", "team": "Delhi Capitals", "probability": 0.447, "actual": true},
+        {"event_id": "team_score_gte_160", "display_name": "Team score >= 160", "team": "Royal Challengers Bengaluru", "probability": 0.531, "actual": true},
+        {"event_id": "team_bats_first", "display_name": "Team bats first", "team": "Royal Challengers Bengaluru", "probability": 0.554, "actual": true},
+        {"event_id": "match_fours_gte_20", "display_name": "Match fours >= 20", "probability": 0.835, "actual": true},
+        {"event_id": "any_fifty", "display_name": "Team produces a fifty", "team": "Royal Challengers Bengaluru", "probability": 0.621, "actual": true}
+      ],
+      "likely_hits": 4,
+      "notable_hits": 5
+    }
+  ],
+  "summary": {
+    "total_matches": 5,
+    "avg_likely_hits": 3.8,
+    "avg_notable_hits": 3.4,
+    "likely_precision_at_5": 0.76,
+    "notable_precision_at_5": 0.68,
+    "aggregate_likely_p5": 0.76,
+    "aggregate_notable_p5": 0.68,
+    "note": "Based on 5 blind forward tests (Apr 18–22, 2026). Likely list precision: 76%. Notable list precision: 68%."
+  }
+}

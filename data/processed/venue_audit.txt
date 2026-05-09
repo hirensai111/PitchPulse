@@ -1,0 +1,74 @@
+================================================================================
+VENUE AUDIT
+================================================================================
+
+'Arun Jaitley Stadium'                                            | count=  14 | mapped -> {'Delhi Capitals'}
+'Arun Jaitley Stadium, Delhi'                                     | count=  25 | mapped -> {'Delhi Capitals'}
+'Barabati Stadium'                                                | count=   7 | mapped -> NEUTRAL
+'Barsapara Cricket Stadium, Guwahati'                             | count=   8 | mapped -> {'Rajasthan Royals'}
+'Bharat Ratna Shri Atal Bihari Vajpayee Ekana Cricket Stadium, Lucknow' | count=  24 | mapped -> {'Lucknow Super Giants'}
+'Brabourne Stadium'                                               | count=  10 | mapped -> {'Mumbai Indians'}
+'Brabourne Stadium, Mumbai'                                       | count=  17 | mapped -> {'Mumbai Indians'}
+'Buffalo Park'                                                    | count=   3 | mapped -> NEUTRAL
+'De Beers Diamond Oval'                                           | count=   3 | mapped -> NEUTRAL
+'Dr DY Patil Sports Academy'                                      | count=  17 | mapped -> {'Mumbai Indians'}
+'Dr DY Patil Sports Academy, Mumbai'                              | count=  20 | mapped -> {'Mumbai Indians'}
+'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium'             | count=  13 | mapped -> {'Deccan Chargers', 'Sunrisers Hyderabad'}
+'Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam' | count=   4 | mapped -> {'Deccan Chargers', 'Sunrisers Hyderabad'}
+'Dubai International Cricket Stadium'                             | count=  46 | mapped -> NEUTRAL
+'Eden Gardens'                                                    | count=  77 | mapped -> {'Kolkata Knight Riders'}
+'Eden Gardens, Kolkata'                                           | count=  26 | mapped -> {'Kolkata Knight Riders'}
+'Feroz Shah Kotla'                                                | count=  60 | mapped -> {'Delhi Capitals'}
+'Green Park'                                                      | count=   4 | mapped -> NEUTRAL
+'Himachal Pradesh Cricket Association Stadium'                    | count=   9 | mapped -> {'Punjab Kings', 'Kings XI Punjab'}
+'Himachal Pradesh Cricket Association Stadium, Dharamsala'        | count=   6 | mapped -> {'Punjab Kings', 'Kings XI Punjab'}
+'Holkar Cricket Stadium'                                          | count=   9 | mapped -> {'Punjab Kings', 'Kings XI Punjab'}
+'JSCA International Stadium Complex'                              | count=   7 | mapped -> {'Chennai Super Kings'}
+'Kingsmead'                                                       | count=  15 | mapped -> NEUTRAL
+'M Chinnaswamy Stadium'                                           | count=  65 | mapped -> {'Royal Challengers Bangalore', 'Royal Challengers Bengaluru'}
+'M Chinnaswamy Stadium, Bengaluru'                                | count=  22 | mapped -> {'Royal Challengers Bangalore', 'Royal Challengers Bengaluru'}
+'M.Chinnaswamy Stadium'                                           | count=  15 | mapped -> {'Royal Challengers Bangalore', 'Royal Challengers Bengaluru'}
+'MA Chidambaram Stadium'                                          | count=   9 | mapped -> {'Chennai Super Kings'}
+'MA Chidambaram Stadium, Chepauk'                                 | count=  48 | mapped -> {'Chennai Super Kings'}
+'MA Chidambaram Stadium, Chepauk, Chennai'                        | count=  37 | mapped -> {'Chennai Super Kings'}
+'Maharaja Yadavindra Singh International Cricket Stadium, Mullanpur' | count=  10 | mapped -> {'Punjab Kings', 'Kings XI Punjab'}
+'Maharaja Yadavindra Singh International Cricket Stadium, New Chandigarh' | count=   3 | mapped -> {'Punjab Kings', 'Kings XI Punjab'}
+'Maharashtra Cricket Association Stadium'                         | count=  22 | mapped -> {'Rising Pune Supergiants', 'Lucknow Super Giants', 'Rising Pune Supergiant'}
+'Maharashtra Cricket Association Stadium, Pune'                   | count=  13 | mapped -> {'Rising Pune Supergiants', 'Lucknow Super Giants', 'Rising Pune Supergiant'}
+'Narendra Modi Stadium, Ahmedabad'                                | count=  34 | mapped -> {'Gujarat Titans', 'Rajasthan Royals'}
+'Nehru Stadium'                                                   | count=   5 | mapped -> NEUTRAL
+'New Wanderers Stadium'                                           | count=   8 | mapped -> NEUTRAL
+'Newlands'                                                        | count=   7 | mapped -> NEUTRAL
+'OUTsurance Oval'                                                 | count=   2 | mapped -> NEUTRAL
+'Punjab Cricket Association IS Bindra Stadium'                    | count=  10 | mapped -> {'Punjab Kings', 'Kings XI Punjab'}
+'Punjab Cricket Association IS Bindra Stadium, Mohali'            | count=  11 | mapped -> {'Punjab Kings', 'Kings XI Punjab'}
+'Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh' | count=   5 | mapped -> {'Punjab Kings', 'Kings XI Punjab'}
+'Punjab Cricket Association Stadium, Mohali'                      | count=  35 | mapped -> {'Punjab Kings', 'Kings XI Punjab'}
+'Rajiv Gandhi International Stadium'                              | count=  15 | mapped -> {'Deccan Chargers', 'Sunrisers Hyderabad'}
+'Rajiv Gandhi International Stadium, Uppal'                       | count=  49 | mapped -> {'Deccan Chargers', 'Sunrisers Hyderabad'}
+'Rajiv Gandhi International Stadium, Uppal, Hyderabad'            | count=  21 | mapped -> {'Deccan Chargers', 'Sunrisers Hyderabad'}
+'Sardar Patel Stadium, Motera'                                    | count=  12 | mapped -> {'Gujarat Titans', 'Rajasthan Royals'}
+'Saurashtra Cricket Association Stadium'                          | count=  10 | mapped -> NEUTRAL
+'Sawai Mansingh Stadium'                                          | count=  47 | mapped -> {'Rajasthan Royals'}
+'Sawai Mansingh Stadium, Jaipur'                                  | count=  17 | mapped -> {'Rajasthan Royals'}
+'Shaheed Veer Narayan Singh International Stadium'                | count=   6 | mapped -> NEUTRAL
+'Sharjah Cricket Stadium'                                         | count=  28 | mapped -> NEUTRAL
+'Sheikh Zayed Stadium'                                            | count=  29 | mapped -> NEUTRAL
+"St George's Park"                                                | count=   7 | mapped -> NEUTRAL
+'Subrata Roy Sahara Stadium'                                      | count=  16 | mapped -> {'Rising Pune Supergiants', 'Lucknow Super Giants', 'Rising Pune Supergiant'}
+'SuperSport Park'                                                 | count=  12 | mapped -> NEUTRAL
+'Vidarbha Cricket Association Stadium, Jamtha'                    | count=   3 | mapped -> NEUTRAL
+'Wankhede Stadium'                                                | count=  73 | mapped -> {'Mumbai Indians'}
+'Wankhede Stadium, Mumbai'                                        | count=  55 | mapped -> {'Mumbai Indians'}
+'Zayed Cricket Stadium, Abu Dhabi'                                | count=   8 | mapped -> NEUTRAL
+
+================================================================================
+SUMMARY
+================================================================================
+Total unique venues: 59
+Mapped venues: 60
+Unmapped venues: 0
+Total matches: 1193
+Matches at mapped venues: 1193
+Matches at unmapped venues: 0
+Coverage: 100.0%

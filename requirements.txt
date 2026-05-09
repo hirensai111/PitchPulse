@@ -1,0 +1,10 @@
+fastapi==0.136.0
+uvicorn[standard]==0.45.0
+xgboost==3.2.0
+scikit-learn==1.7.0
+pandas==3.0.2
+numpy==2.4.4
+joblib==1.5.3
+pydantic==2.13.3
+pyarrow==24.0.0
+tqdm==4.67.3
