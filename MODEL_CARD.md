@@ -2,7 +2,7 @@
 
 **Version:** 1.0  
 **Date:** 2026-04-22  
-**Author:** Generated as part of an end-to-end ML portfolio project.
+**Author:** Hiren Sai Vellanki
 
 ---
 
@@ -129,14 +129,3 @@ Calibration is enforced via `CalibratedClassifierCV` (isotonic, 3-fold) wrapped 
 - **Do not use for real wagering.** Betting markets include a 5–15% vigorish (bookmaker margin) that this model does not account for. Even a model that beats a constant baseline is unlikely to overcome market inefficiencies after fees.
 - Predictions are most useful as **entertainment / narrative generation**: "Given these two teams at this venue, the model thinks a high-sixes game is unusually likely."
 
----
-
-## 7. What I Would Build Differently
-
-If I were iterating beyond this first pass, three changes would give the biggest returns:
-
-1. **Granular player embeddings.** Currently, player features are hand-rolled aggregates (average runs, strike rate, economy). A learned embedding from a large historical corpus — or even just PCA on player career stats — would capture form, matchup history, and role far better than top-k averages.
-
-2. **Weather and pitch conditions.** The current feature set has no notion of dew, overcast skies, or pitch deterioration. In IPL, these are first-order drivers of total runs and wicket counts. Scraping match-day weather or using venue-specific pitch ratings would lift the `team_bats_first`, `match_runs_gte_*`, and `team_all_out` models specifically.
-
-3. **Temporal dynamics with a rolling window.** All features use a fixed 10-match lookback. A team on a 5-match winning streak should have different momentum weights than a team that won 5 of 10 with alternating results. An exponentially-weighted moving average (EWMA) or a small RNN on the match sequence would capture this.
